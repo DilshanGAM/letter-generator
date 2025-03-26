@@ -34,7 +34,7 @@ const expendingPersons = [
   {
     name: 'Induruwa Udumullage Nipuna Nadeeshan',
     address: 'No 226, Silwadail State, Dodangoda Kalutara.',
-    nic: '200010892555',
+    nic: '200019401491',
   },
 ];
 
